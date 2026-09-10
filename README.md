@@ -27,3 +27,6 @@ Evaluated on the unbiased test set:
 ├── Tomato Leaf Disease.v63i.yolo26/    # Dataset directory (train, valid, test splits & data.yaml)
 ├── runs/                             # Training logs, weights, and evaluation outputs
 └── Tomato-leaf-disease-detection.ipynb # Main research pipeline notebook
+```
+STILL WORKING ON THIS
+LAST UPDATED 01-09-2026
